@@ -15,8 +15,8 @@ an admin interface (angularjs, native mobile)
     $ python manage.py runserver
 ```
 
-**QED**: login to http://localhost:8000/admin and then
-visit http://localhost:8000/api/admin/
+**QED**: login to [admin](http://localhost:8000/admin) and then
+visit [api/admin](http://localhost:8000/api/admin/)
 
 ## Installation
 
