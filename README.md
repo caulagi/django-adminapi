@@ -13,10 +13,10 @@ an admin interface (angularjs, native mobile)
     $
     $ python manage.py syncdb
     $ python manage.py runserver
-
-    QED - login to http://localhost:8000/admin and then
-    visit http://localhost:8000/api/admin/
 ```
+
+**QED**: login to http://localhost:8000/admin and then
+visit http://localhost:8000/api/admin/
 
 ## Installation
 
